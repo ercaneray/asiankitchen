@@ -1,6 +1,6 @@
 # asiankitchen
 ## Kitchen menu
 
-I write only the js file.
+I wrote only the js file.
 
 ![ScreenShot](ss.png)
